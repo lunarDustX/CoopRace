@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{2FFCA7E7-617E-787E-AA99-F7FD1DBD4234}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scipts/ScoreBoard.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scipts/Player.cs">
     <Files>
-      <File FileName="Assets/Scipts/GameLogic.cs" Line="33" Column="6" />
-      <File FileName="Assets/Scipts/Player.cs" Line="96" Column="35" />
+      <File FileName="Assets/Scipts/GameLogic.cs" Line="19" Column="32" />
+      <File FileName="Assets/Scipts/Player.cs" Line="121" Column="44" />
       <File FileName="Assets/Scipts/ScoreBoard.cs" Line="31" Column="11" />
       <File FileName="Assets/Scipts/Gold.cs" Line="14" Column="58" />
+      <File FileName="Assets/test.cs" Line="16" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

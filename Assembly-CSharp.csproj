@@ -86,6 +86,7 @@
     <Compile Include="Assets\Scipts\Player.cs" />
     <Compile Include="Assets\Scipts\Pole.cs" />
     <Compile Include="Assets\Scipts\ScoreBoard.cs" />
+    <Compile Include="Assets\test.cs" />
     <None Include="Assets\CarbonInput\Demo\AutoMapper\readme.txt" />
     <None Include="Assets\CarbonInput\Gizmos\readme.txt" />
     <None Include="Assets\CarbonInput\readme.txt" />

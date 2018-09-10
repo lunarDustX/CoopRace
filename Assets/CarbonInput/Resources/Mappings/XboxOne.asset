@@ -14,6 +14,8 @@ MonoBehaviour:
   RegEx: Xbox One
   Platform: 777
   Priority: 999
+  UseOnce: 0
+  Replacable: 0
   Axes:
   - Axis: 0
     Alternative: 0
