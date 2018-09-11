@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scipts\Crowd.cs" />
     <Compile Include="Assets\Scipts\GameLogic.cs" />
     <Compile Include="Assets\Scipts\Gold.cs" />
+    <Compile Include="Assets\Scipts\LevelSelection.cs" />
     <Compile Include="Assets\Scipts\Player.cs" />
     <Compile Include="Assets\Scipts\Pole.cs" />
     <Compile Include="Assets\Scipts\ScoreBoard.cs" />
