@@ -2,11 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scipts/Player.cs">
     <Files>
-      <File FileName="Assets/Scipts/GameLogic.cs" Line="19" Column="32" />
-      <File FileName="Assets/Scipts/Player.cs" Line="121" Column="44" />
-      <File FileName="Assets/Scipts/ScoreBoard.cs" Line="31" Column="11" />
-      <File FileName="Assets/Scipts/Gold.cs" Line="14" Column="58" />
-      <File FileName="Assets/test.cs" Line="16" Column="50" />
+      <File FileName="Assets/Scipts/GameLogic.cs" Line="47" Column="90" />
+      <File FileName="Assets/Scipts/Player.cs" Line="123" Column="45" />
+      <File FileName="Assets/Scipts/Gold.cs" Line="41" Column="38" />
+      <File FileName="Assets/Scipts/LevelSettings.cs" Line="28" Column="30" />
+      <File FileName="Assets/Scipts/Freezer.cs" Line="32" Column="36" />
+      <File FileName="Assets/Scipts/ScoreEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scipts/CamFollow.cs" Line="16" Column="2" />
+      <File FileName="Assets/StatePanel.cs" Line="20" Column="34" />
+      <File FileName="Assets/Scipts/AnimatedEntry.cs" Line="28" Column="21" />
+      <File FileName="Assets/Scipts/CamZoom.cs" Line="35" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

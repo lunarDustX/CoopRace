@@ -4,8 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - GOLD
-  - GROUND
+  - Train
+  - PlayerPole
+  - PlayerBase
+  - Ground
+  - Gold
+  - Goal
+  - Tableware
+  - Raft
+  - Arena
   layers:
   - Default
   - TransparentFX

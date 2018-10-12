@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LevelSelection : MonoBehaviour {
 
     private int levels;
     private int levelIndex;
+    public Text levelText;
 
 	// Use this for initialization
 	void Start () {
@@ -22,6 +24,7 @@ public class LevelSelection : MonoBehaviour {
             transform.GetChild(levelIndex).gameObject.SetActive(false);
             levelIndex--;
             if (levelIndex < 0) levelIndex = levels - 1;
+            levelText.text = "LEVEL " + (levelIndex + 1);
             transform.GetChild(levelIndex).gameObject.SetActive(true);
         }
 
@@ -30,10 +33,9 @@ public class LevelSelection : MonoBehaviour {
             transform.GetChild(levelIndex).gameObject.SetActive(false);
             levelIndex++;
             if (levelIndex > levels-1) levelIndex = 0;
+            levelText.text = "LEVEL " + (levelIndex + 1);
             transform.GetChild(levelIndex).gameObject.SetActive(true);
         }
-
-        //GamePad.GetAxis(CAxis.LX) 
 
         if (state.Pressed(CButton.A)) {
             SceneManager.LoadScene(levelIndex+1);
